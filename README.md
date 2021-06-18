@@ -1,2 +1,2 @@
-# Operacoes_Matematicas
+# Funcoes_Matematicas
 Funções comuns na matemática
